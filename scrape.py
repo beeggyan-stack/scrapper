@@ -17,6 +17,13 @@
 # create repository in github
 # copy paste git code from github
 
+#########################
+# 1. change the code
+# 2. git add.
+# 3. git commit -m "your message"
+# 4. git push
+############################
+
 import json
 import requests
 from bs4 import BeautifulSoup
